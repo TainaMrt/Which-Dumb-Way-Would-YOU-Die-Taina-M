@@ -1,0 +1,127 @@
+html, body {
+  height: 100%;
+  width: 100%;
+      font-family: 'Space Grotesk', sans-serif;
+    background-color: #dad0b5;
+    text-align: center;
+}
+
+input {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.redo-quiz {
+  display: none;
+  justify-content: center;
+}
+
+
+}
+
+.question-one {
+  text-align: center;
+}
+
+
+
+img {
+  width: 400px;
+  justify-content: center;
+}
+
+.result-one{
+  display: none;
+  justify-content: center;
+  
+}
+
+.result-two{
+   display: none;
+  justify-content: center;
+}
+
+.result-three{
+   display: none;
+  justify-content: center;
+}
+
+.result-four{
+   display: none;
+  justify-content: center;
+}
+
+.result-five{
+  display: none;
+  justify-content: center;
+  
+}
+
+.result-six{
+  display: none;
+  justify-content: center;
+  
+}
+
+.result-seven{
+  display: none;
+  justify-content: center;
+  
+}
+
+.result-eight{
+  display: none;
+  justify-content: center;
+  
+}
+
+.result-nine{
+  display: none;
+  justify-content: center;
+  
+}
+
+.result-ten{
+  display: none;
+  justify-content: center;
+  
+}
+
+.result-eleven{
+  display: none;
+  justify-content: center;
+  
+}
+
+.result-twelve{
+  display: none;
+  justify-content: center;
+  
+}
+.result-thirteen{
+  display: none;
+  justify-content: center;
+  
+}.result-fourteen{
+  display: none;
+  justify-content: center;
+  
+}.result-fifteen{
+  display: none;
+  justify-content: center;
+  
+}.result-sixteen{
+  display: none;
+  justify-content: center;
+  
+}
+
+.secret-result{
+  display: none;
+  justify-content: center;
+}
+
+
+
